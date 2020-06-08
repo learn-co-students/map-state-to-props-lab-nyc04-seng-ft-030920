@@ -11,6 +11,7 @@
     ]
   },
   "dependencies": {
+    "electron": "^9.0.2",
     "enzyme": "^3.3.0",
     "enzyme-adapter-react-16": "^1.1.1",
     "mocha-multi": "^1.0.1",
@@ -39,6 +40,7 @@
     "file-system": "2.2.2",
     "jsdom": "9.2.1",
     "mocha": "5.2.0",
-    "mocha-jsdom": "2.0.0"
+    "mocha-jsdom": "2.0.0",
+    "redux-devtools-extension": "^2.13.8"
   }
 }
